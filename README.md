@@ -1,7 +1,7 @@
-# Girisha Malni N
+# Girisha Malni  
 
 **Building intelligent systems for the future of mobility and beyond**  
-Researching **ADAS, Autonomous Vehicles, Intelligent Agents, Intelligent Systems and Future-Ready Computing (including Quantum).**
+Researching **ADAS, Autonomous Vehicles, Intelligent Agents and Future-Ready Computing (including Quantum).**
 
 ---
 
@@ -13,8 +13,7 @@ My expertise spans:
 - Autonomous Vehicles (AVs)  
 - Advanced Driver Assistance Systems (ADAS)  
 - Multi-Agent Architectures  
-- Quantum-inspired intelligent systems
-- RAG , LLM , Foundation Models LxMs, Computational Linguistics 
+- Quantum-inspired intelligent systems  
 
 ---
 
@@ -42,7 +41,9 @@ My expertise spans:
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) &nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) &nbsp;  
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) &nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 ---
 
@@ -57,7 +58,8 @@ My expertise spans:
 
 ## Connect  
 
-📧 **Email:** [girishamalnin@gmail.com](mailto:girishamalnin@gmail.com)  
+📩 **Reach Me Directly:**  
+[![Email](https://img.shields.io/badge/girishamalnin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishamalnin@gmail.com)  
 
 <p align="center">
   <a href="https://orcid.org/0009-0001-5165-6320"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
