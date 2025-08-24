@@ -1,4 +1,4 @@
-# Girisha Malni  
+# Girisha Malni N
 
 **Building intelligent systems for the future of mobility and beyond**  
 Researching **ADAS, Autonomous Vehicles, Intelligent Agents and Future-Ready Computing (including Quantum).**
