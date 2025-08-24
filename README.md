@@ -59,7 +59,12 @@ My expertise spans:
 ## Connect  
 
 📩 **Reach Me Directly:**  
-[![Email](https://img.shields.io/badge/girishamalnin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishamalnin@gmail.com)  
+<p align="center">
+  <a href="mailto:girishamalnin@gmail.com">
+    <img src="https://img.shields.io/badge/girishamalnin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://orcid.org/0009-0001-5165-6320"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
