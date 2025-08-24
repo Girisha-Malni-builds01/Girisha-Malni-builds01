@@ -1,7 +1,7 @@
-# Girisha Malni  
+# Girisha Malni N
 
 **Building intelligent systems for the future of mobility and beyond**  
-Researching **ADAS, Autonomous Vehicles, Intelligent Agents, and Future-Ready Computing (including Quantum).**
+Researching **ADAS, Autonomous Vehicles, Intelligent Agents, Intelligent Systems and Future-Ready Computing (including Quantum).**
 
 ---
 
@@ -13,7 +13,8 @@ My expertise spans:
 - Autonomous Vehicles (AVs)  
 - Advanced Driver Assistance Systems (ADAS)  
 - Multi-Agent Architectures  
-- Quantum-inspired intelligent systems  
+- Quantum-inspired intelligent systems
+- RAG , LLM , Foundation Models LxMs, Computational Linguistics 
 
 ---
 
@@ -56,12 +57,13 @@ My expertise spans:
 
 ## Connect  
 
+📧 **Email:** [girishamalnin@gmail.com](mailto:girishamalnin@gmail.com)  
+
 <p align="center">
-  <a href="mailto:girishamalnin@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://orcid.org/0009-0001-5165-6320"><img src="https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.linkedin.com/in/girisha-malni-n-7b5978283"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@23csec07.ngirishamalni"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=vanHO9IAAAAJ"><img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0001-5165-6320"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.linkedin.com/in/girisha-malni-n-7b5978283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@23csec07.ngirishamalni"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=vanHO9IAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 </p>  
 
 ---
