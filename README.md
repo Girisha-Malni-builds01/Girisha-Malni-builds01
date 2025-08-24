@@ -92,6 +92,19 @@ My expertise spans:
 
 ---
 
+
+## 📈 GitHub Visualizations  
+
+### Contribution Activity Graph
+[![Girisha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Girisha-Malni-builds01&theme=github-light&hide_border=true)](https://github.com/Girisha-Malni-builds01)
+
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Girisha-Malni-builds01&theme=flat&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Contribution Snake
+![snake gif](https://github.com/Girisha-Malni-builds01/Girisha-Malni-builds01/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## Motto  
 
 > *"Empowering mobility and intelligence through the fusion of AI, autonomy and quantum innovation."*  
