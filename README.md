@@ -87,4 +87,4 @@ My expertise spans:
 
 ## Motto  
 
-> *"Empowering mobility and intelligence through the fusion of AI, autonomy, and quantum innovation."*  
+> *"Empowering mobility and intelligence through the fusion of AI, autonomy and quantum innovation."*  
