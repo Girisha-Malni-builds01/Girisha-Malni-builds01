@@ -1,14 +1,14 @@
 # Girisha Malni  
 
 **Building intelligent systems for the future of mobility and beyond**  
-Researching **ADAS, Autonomous Vehicles, Intelligent Agents, and Future-Ready Computing (including Quantum).**
+Researching **ADAS, Autonomous Vehicles, Intelligent Agents, and Future-Ready Computing (including Quantum).**  
 
 ---
 
 <img src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e67652e676966" 
 alt="coding gif" align="right" width="250"/>
 
-## 🚗 About Me  
+## About Me  
 
 Driven by curiosity and a passion for technology, I design and build **AI-powered systems** that shape the future of mobility and intelligent computing. My expertise spans **Autonomous Vehicles (AVs)**, **Advanced Driver Assistance Systems (ADAS)**, and **multi-agent architectures**. I am also exploring how **quantum technologies** can revolutionize intelligent systems.  
 
@@ -54,8 +54,6 @@ Driven by curiosity and a passion for technology, I design and build **AI-powere
 
 ---
 
-## 📧 Email  
-
 <p align="center">
   <a href="mailto:girishamalnin@gmail.com">
     <img src="https://img.shields.io/badge/girishamalnin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -78,18 +76,18 @@ Driven by curiosity and a passion for technology, I design and build **AI-powere
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Girisha-Malni-builds01&show_icons=true&theme=graywhite" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Girisha-Malni-builds01&theme=graywhite" alt="GitHub Streak" height="150"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Girisha-Malni-builds01&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girisha-Malni-builds01&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girisha-Malni-builds01&layout=compact&theme=graywhite" alt="Top Languages" height="150"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Girisha-Malni-builds01&theme=default&hide_border=true" height="160"/>
+</p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Girisha-Malni-builds01&theme=minimal" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Girisha-Malni-builds01&theme=github-light&hide_border=true" height="250"/>
 </p>
 
 ---
 
-> *"Empowering mobility and intelligence through innovation and future-ready computing."*  
+> *"Empowering mobility and intelligence through innovation, algorithms, and systems that matter."*  
