@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="gifgithub.png" alt="Profile Image" width="300"/>
-</p>
 
 # Girisha Malni N
 
