@@ -1,24 +1,17 @@
 
 # Girisha Malni N
 
-**AI for Sustainable Mobility**
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" align="right" width="250"/>
 
-**Building intelligent systems for the future of mobility and beyond.**  
+**Building intelligent systems.**  
 
-Researching **ADAS, Autonomous Vehicles, Intelligent Agents, LLMs & RAGs, Foundational Models and Future-Ready Computing (including Quantum).**
+Researching **Intelligent Agents, LLMs & RAGs, Foundational Models and Future-Ready Computing (including Quantum).**
 
 ---
 
 ## About Me  
 
-Driven by curiosity and a passion for technology, I design and build **AI-powered systems** that shape the future of mobility and intelligent computing.  
-
-My expertise spans:  
-- Autonomous Vehicles (AVs)  
-- Advanced Driver Assistance Systems (ADAS)  
-- Multi-Agent Architectures  
-- Quantum-inspired intelligent systems  
+Driven by curiosity and a passion for technology, I design and build **AI-powered systems** that shape the future of mobility, Social good systems and intelligent computing.  
 
 ---
 
