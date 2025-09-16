@@ -46,15 +46,6 @@ Driven by curiosity and a passion for technology, I design and build **AI-powere
 
 ---
 
-## Current Focus  
-
-- Building **realistic AV simulations** and next-gen ADAS solutions  
-- Architecting **intelligent agents** for complex, dynamic environments  
-- Creating **interactive data visualizations and AV animations**  
-- Exploring **quantum-inspired algorithms** for future-ready computing  
-
----
-
 ## Connect  
 
 📩 **Reach Me Directly:**  
